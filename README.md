@@ -60,12 +60,6 @@ Notes:
 - Replace the synthetic embeddings with real model embeddings (OpenAI, Hugging Face, etc.) for production accuracy.
 - To persist to disk, set the appropriate persist arguments per the Chroma client settings (see Chroma docs).
 
-## Project layout
-- README.md — this file
-- examples/ — runnable example scripts
-- data/ — optional sample datasets
-- notebooks/ — exploratory notebooks
-
 ## Tips
 - Start in-memory to understand how collections and queries behave.
 - Keep embedding dimensionality consistent between upserts and queries.
