@@ -1,4 +1,4 @@
-# Learn Chroma
+# Learn ChromaDB
 
 A minimal, opinionated starter for learning and experimenting with Chroma (vector DB) in small projects. Focuses on simple, reproducible examples and minimal dependencies.
 
